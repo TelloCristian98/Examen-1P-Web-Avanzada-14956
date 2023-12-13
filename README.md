@@ -22,8 +22,6 @@ dotnet run
 
 Damos enter y el proyecto se compilará y ejecutará.
 
-En el proyecto la autenticación se debe realizar para ejecutar el método de eliminar un producto, es decir, el usuario debe iniciar sesión como administrador para poder eliminar un producto de la base de datos.
-
 # Directrices del Proyecto
 
 ## Ejercicio 1: Variables y Operadores en C#
