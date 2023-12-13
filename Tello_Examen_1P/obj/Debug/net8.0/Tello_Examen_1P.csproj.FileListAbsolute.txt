@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\bin\Debug\net8.0\Tello_Examen_1P.exe
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\bin\Debug\net8.0\Tello_Examen_1P.deps.json
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\bin\Debug\net8.0\Tello_Examen_1P.runtimeconfig.json
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\bin\Debug\net8.0\Tello_Examen_1P.dll
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\bin\Debug\net8.0\Tello_Examen_1P.pdb
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\obj\Debug\net8.0\Tello_Examen_1P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\obj\Debug\net8.0\Tello_Examen_1P.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\obj\Debug\net8.0\Tello_Examen_1P.AssemblyInfo.cs
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\obj\Debug\net8.0\Tello_Examen_1P.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\obj\Debug\net8.0\Tello_Examen_1P.dll
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\obj\Debug\net8.0\refint\Tello_Examen_1P.dll
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\obj\Debug\net8.0\Tello_Examen_1P.pdb
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\obj\Debug\net8.0\Tello_Examen_1P.genruntimeconfig.cache
+C:\Users\DELL\Documents\DotNet\Examen Parcial\Tello_Examen_1P\obj\Debug\net8.0\ref\Tello_Examen_1P.dll
